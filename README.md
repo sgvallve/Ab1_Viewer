@@ -11,6 +11,8 @@ The application provides a chromatogram-style view of raw trace signals,
 base calls, and per-base quality scores, allowing manual inspection and curation
 of sequencing reads prior to downstream analyses.
 
+Created by Santi Garcia-Vallve, January 2026
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sgvallve/Ab1_Viewer/blob/main/Ab1_Chromatogram_viewer_Collab.ipynb)
 ---
 
