@@ -8,6 +8,8 @@ The application provides a chromatogram-style view of raw trace signals,
 base calls, and per-base quality scores, allowing manual inspection and curation
 of sequencing reads prior to downstream analyses.
 
+<a href="https://colab.research.google.com/github/sgvallve/Ab1_Viewer/blob/main/Ab1_Chromatogram_viewer_Collab.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sgvallve/Ab1_Viewer/blob/main/Ab1_Chromatogram_viewer_Collab.ipynb)
 ---
 
