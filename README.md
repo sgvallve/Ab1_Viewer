@@ -9,7 +9,7 @@ base calls, and per-base quality scores, allowing manual inspection and curation
 of sequencing reads prior to downstream analyses.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/sgvallve/<REPO>/blob/main/notebooks/ab1_chromatogram_viewer.ipynb)
+(https://colab.research.google.com/github/sgvallve/Ab1_Viewer/blob/main/notebooks/ab1_chromatogram_viewer.ipynb)
 ---
 
 ## Features
