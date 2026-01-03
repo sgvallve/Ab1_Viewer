@@ -1,4 +1,7 @@
-# AB1 Chromatogram Viewer and Editor
+<h1>
+  <img src="screenshots/Ab1_Viewer.png" alt="logo" width="100" style="vertical-align: middle;">
+  AB1 Chromatogram Viewer and Editor
+</h1>
 
 An interactive **Jupyter Notebook–based tool** for visualizing, editing, trimming,
 and exporting **Sanger sequencing chromatograms (`.ab1`)** using **Biopython**
